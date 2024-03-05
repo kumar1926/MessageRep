@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MessageCredits</string>
+    <string name="header_name" translatable="true">Message Credits</string>
+</resources>
